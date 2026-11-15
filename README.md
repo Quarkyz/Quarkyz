@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web indépendant et sys admin en formation" />
+<a href="https://github.com/Quarkyz"><img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web indépendant et sys admin en formation" /></a>
 
 <a href="https://quarkyz.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Votre+site,+%C3%A0+la+hauteur.;Sites+vitrines+%C2%B7+E-commerce+%C2%B7+Applications+web;Administration+syst%C3%A8mes+%26+r%C3%A9seaux" alt="Typing SVG" />
@@ -17,7 +17,7 @@
   <a href="https://quarkyz.com/hebergement/"><img src="./assets/btn-hebergement.svg" height="46" alt="Hébergement dès 0,50 €" /></a>
 </p>
 
-<img src="./assets/stats.svg" width="100%" alt="0,50 € d'hébergement par mois, site vitrine dès 149 €, un seul interlocuteur, zéro template recyclé" />
+<a href="https://github.com/Quarkyz"><img src="./assets/stats.svg" width="100%" alt="0,50 € d'hébergement par mois, site vitrine dès 149 €, un seul interlocuteur, zéro template recyclé" /></a>
 
 <br/>
 
@@ -37,12 +37,12 @@
 ## ✦ Ce que je réalise
 
 <p>
-  <img src="./assets/svc-vitrines.svg" width="49%" alt="Sites vitrines" />
-  <img src="./assets/svc-ecommerce.svg" width="49%" alt="E-commerce" />
-  <img src="./assets/svc-apps.svg" width="49%" alt="Applications web" />
-  <img src="./assets/svc-design.svg" width="49%" alt="Design UI/UX" />
+  <a href="https://github.com/Quarkyz"><img src="./assets/svc-vitrines.svg" width="49%" alt="Sites vitrines" /></a>
+  <a href="https://github.com/Quarkyz"><img src="./assets/svc-ecommerce.svg" width="49%" alt="E-commerce" /></a>
+  <a href="https://github.com/Quarkyz"><img src="./assets/svc-apps.svg" width="49%" alt="Applications web" /></a>
+  <a href="https://github.com/Quarkyz"><img src="./assets/svc-design.svg" width="49%" alt="Design UI/UX" /></a>
   <a href="https://quarkyz.com/hebergement/"><img src="./assets/svc-hebergement.svg" width="49%" alt="Hébergement" /></a>
-  <img src="./assets/svc-infra.svg" width="49%" alt="Infra et réseau" />
+  <a href="https://github.com/Quarkyz"><img src="./assets/svc-infra.svg" width="49%" alt="Infra et réseau" /></a>
 </p>
 
 <br/>
@@ -50,32 +50,32 @@
 ## ✦ Développement
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,git,github,figma&theme=dark" />
+  <a href="https://github.com/Quarkyz"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,git,github,figma&theme=dark" /></a>
 </p>
 
 ## ✦ Systèmes, réseaux & infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,powershell,docker,nginx,cloudflare,grafana,ansible,raspberrypi&theme=dark" />
+  <a href="https://github.com/Quarkyz"><img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,powershell,docker,nginx,cloudflare,grafana,ansible,raspberrypi&theme=dark" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/VLAN-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Routage_%26_Switching-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/DHCP-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/NAT-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/VPN-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pare--feu-16161a?style=flat-square" />
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/TCP%2FIP-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/VLAN-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Routage_%26_Switching-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/DNS-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/DHCP-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/NAT-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/VPN-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Pare--feu-16161a?style=flat-square" /></a>
   <br/>
-  <img src="https://img.shields.io/badge/Active_Directory-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows_Server-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Virtualisation-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reverse_proxy-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/SSL%2FTLS-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supervision-16161a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sauvegardes-16161a?style=flat-square" />
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Active_Directory-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Windows_Server-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Virtualisation-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Reverse_proxy-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/SSL%2FTLS-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Supervision-16161a?style=flat-square" /></a>
+  <a href="https://github.com/Quarkyz"><img src="https://img.shields.io/badge/Sauvegardes-16161a?style=flat-square" /></a>
 </p>
 
 <br/>
@@ -100,6 +100,6 @@
   <a href="mailto:carreira.vincent@outlook.fr"><img src="./assets/btn-mail.svg" height="46" alt="Mail" /></a>
 </p>
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+<a href="https://github.com/Quarkyz"><img src="./assets/footer.svg" width="100%" alt="" /></a>
 
 </div>

@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web et sys admin en formation. Hébergement dès 0,50 € par mois." />
+<img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web indépendant et sys admin en formation" />
 
 <a href="https://quarkyz.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Votre+site,+%C3%A0+la+hauteur.;H%C3%A9bergement+de+site+d%C3%A8s+0,50+%E2%82%AC+par+mois;Sites+vitrines+%C2%B7+E-commerce+%C2%B7+Applications+web;Administration+syst%C3%A8mes+%26+r%C3%A9seaux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Votre+site,+%C3%A0+la+hauteur.;Sites+vitrines+%C2%B7+E-commerce+%C2%B7+Applications+web;Administration+syst%C3%A8mes+%26+r%C3%A9seaux" alt="Typing SVG" />
 </a>
 
 <p>
@@ -28,14 +28,7 @@
   Stockage SSD, accès SFTP, sauvegardes et espace client inclus.
 </p>
 
-<table>
-  <tr>
-    <td width="200" align="center"><h3>0,50 €</h3><b>Site HTML</b><br/><sub>500 Mo de stockage</sub></td>
-    <td width="200" align="center"><h3>0,59 €</h3><b>Base MariaDB</b><br/><sub>Base dédiée</sub></td>
-    <td width="200" align="center"><h3>0,89 €</h3><b>Pack Démarrage</b><br/><sub>Plusieurs services réunis</sub></td>
-    <td width="200" align="center"><h3>0,99 €</h3><b>Bot Discord</b><br/><sub>Node.js, 24h/24</sub></td>
-  </tr>
-</table>
+<a href="https://quarkyz.com/hebergement/"><img src="./assets/hosting.svg" width="100%" alt="Site HTML 0,50 €, base MariaDB 0,59 €, pack Démarrage 0,89 €, bot Discord 0,99 €, par mois" /></a>
 
 <sub>Prix par mois. Détails et commande sur <a href="https://quarkyz.com/hebergement/">quarkyz.com/hebergement</a>.</sub>
 
@@ -43,38 +36,14 @@
 
 ## ✦ Ce que je réalise
 
-<table>
-  <tr>
-    <td width="300" valign="top">
-      <h3>🌐 Sites vitrines</h3>
-      <sub>Une présence en ligne claire, rapide et adaptée au mobile.</sub>
-    </td>
-    <td width="300" valign="top">
-      <h3>🛒 E-commerce</h3>
-      <sub>Une boutique pour vendre, avec un catalogue pensé pour vos clients.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="300" valign="top">
-      <h3>⚙️ Applications web</h3>
-      <sub>Espaces clients, tableaux de bord et outils métier sur mesure.</sub>
-    </td>
-    <td width="300" valign="top">
-      <h3>🎨 Design UI/UX</h3>
-      <sub>Maquettes, interfaces, logos et identité visuelle.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="300" valign="top">
-      <h3>🖥️ <a href="https://quarkyz.com/hebergement/">Hébergement</a></h3>
-      <sub>Sites HTML, Node.js, bots Discord et bases de données.</sub>
-    </td>
-    <td width="300" valign="top">
-      <h3>🛡️ Infra & réseau</h3>
-      <sub>Serveurs Linux, réseaux, sécurité et automatisation.</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/svc-vitrines.svg" width="49%" alt="Sites vitrines" />
+  <img src="./assets/svc-ecommerce.svg" width="49%" alt="E-commerce" />
+  <img src="./assets/svc-apps.svg" width="49%" alt="Applications web" />
+  <img src="./assets/svc-design.svg" width="49%" alt="Design UI/UX" />
+  <a href="https://quarkyz.com/hebergement/"><img src="./assets/svc-hebergement.svg" width="49%" alt="Hébergement" /></a>
+  <img src="./assets/svc-infra.svg" width="49%" alt="Infra et réseau" />
+</p>
 
 <br/>
 
@@ -113,32 +82,12 @@
 
 ## ✦ Projets phares
 
-<table>
-  <tr>
-    <td width="300" valign="top">
-      <h3>💻 <a href="https://quarkyz.com/projets/luxbytech/">Luxbytech</a></h3>
-      <sub><code>Site web + tableau de bord</code></sub>
-      <p>Réparation, vente et configuration de PC, consoles et smartphones.</p>
-    </td>
-    <td width="300" valign="top">
-      <h3>🥖 <a href="https://quarkyz.com/projets/atelier-du-pain/">L'Atelier du Pain</a></h3>
-      <sub><code>Logo & identité</code></sub>
-      <p>Identité visuelle d'une boulangerie fictive, inspirée de l'artisanat et de l'authenticité.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="300" valign="top">
-      <h3>🎓 <a href="https://quarkyz.com/projets/arisbde/">Aris BDE</a></h3>
-      <sub><code>Site + dashboard + espace compte</code></sub>
-      <p>Une communauté étudiante, des événements, des rencontres et des souvenirs à créer.</p>
-    </td>
-    <td width="300" valign="top">
-      <h3>🧪 <a href="https://quarkyz.com/projets/">Projets en cours</a></h3>
-      <sub><code>Toujours en construction</code></sub>
-      <p>Découvre toutes mes réalisations et ce que je prépare en ce moment.</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://quarkyz.com/projets/luxbytech/"><img src="./assets/prj-luxbytech.svg" width="49%" alt="Luxbytech" /></a>
+  <a href="https://quarkyz.com/projets/atelier-du-pain/"><img src="./assets/prj-atelier.svg" width="49%" alt="L'Atelier du Pain" /></a>
+  <a href="https://quarkyz.com/projets/arisbde/"><img src="./assets/prj-aris.svg" width="49%" alt="Aris BDE" /></a>
+  <a href="https://quarkyz.com/projets/"><img src="./assets/prj-encours.svg" width="49%" alt="Projets en cours" /></a>
+</p>
 
 <br/>
 

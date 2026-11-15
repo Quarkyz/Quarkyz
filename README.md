@@ -3,7 +3,7 @@
 <a href="https://github.com/Quarkyz"><img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web indépendant et sys admin en formation" /></a>
 
 <a href="https://quarkyz.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Salut%2C+je+suis+Quarkyz;Hey%2C+I%27m+Quarkyz;Dev+Web+%26+SysAdmin;%C3%89tudiant+en+syst%C3%A8mes+%26+r%C3%A9seaux;Passionn%C3%A9+de+code%2C+d%27infra+et+de+design;Toujours+en+train+d%27apprendre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Salut%2C+je+suis+Quarkyz+👋;Hey%2C+I%27m+Quarkyz+👋;Dev+Web+%26+SysAdmin;%C3%89tudiant+en+syst%C3%A8mes+%26+r%C3%A9seaux;Passionn%C3%A9+de+code%2C+d%27infra+et+de+design;Toujours+en+train+d%27apprendre" alt="Typing SVG" />
 </a>
 
 <p>

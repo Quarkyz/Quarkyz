@@ -3,18 +3,18 @@
 <a href="https://github.com/Quarkyz"><img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web indépendant et sys admin en formation" /></a>
 
 <a href="https://quarkyz.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Votre+site,+%C3%A0+la+hauteur.;Sites+vitrines+%C2%B7+E-commerce+%C2%B7+Applications+web;Administration+syst%C3%A8mes+%26+r%C3%A9seaux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Salut%2C+je+suis+Quarkyz;Hey%2C+I%27m+Quarkyz;Dev+Web+%26+SysAdmin;%C3%89tudiant+en+syst%C3%A8mes+%26+r%C3%A9seaux;Passionn%C3%A9+de+code%2C+d%27infra+et+de+design;Toujours+en+train+d%27apprendre" alt="Typing SVG" />
 </a>
 
 <p>
   Salut, moi c'est <b>Vincent</b>, alias <b>Quarkyz</b> 👋<br/>
-  Développeur web indépendant et étudiant en <b>administration systèmes & réseaux</b>.<br/>
-  Je dessine l'interface, j'écris le code <b>et</b> je gère l'infrastructure qui le fait tourner.
+  Dev web et étudiant en <b>administration systèmes & réseaux</b>.<br/>
+  Passionné par le code, le design et tout ce qui fait tourner un serveur.
 </p>
 
 <p>
-  <a href="https://quarkyz.com/contact/" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-projet.svg" height="46" alt="Parler de mon projet" /></a>
-  <a href="https://quarkyz.com/hebergement/" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-hebergement.svg" height="46" alt="Hébergement dès 0,50 €" /></a>
+  <a href="https://quarkyz.com" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-site.svg" height="46" alt="Quarkyz.com" /></a>
+  <a href="https://portfolio.carreira.website" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
 </p>
 
 <a href="https://github.com/Quarkyz"><img src="./assets/stats.svg" width="100%" alt="0,50 € d'hébergement par mois, site vitrine dès 149 €, un seul interlocuteur, zéro template recyclé" /></a>

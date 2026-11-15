@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Quarkyz — Développeur web indépendant · Sys admin en formation" />
+<img src="./assets/banner.svg" width="100%" alt="Quarkyz, développeur web et sys admin en formation. Hébergement dès 0,50 € par mois." />
 
 <a href="https://quarkyz.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Votre+site,+%C3%A0+la+hauteur.;Sites+vitrines+%C2%B7+E-commerce+%C2%B7+Applications+web;Administration+syst%C3%A8mes+%26+r%C3%A9seaux;Je+con%C3%A7ois%2C+je+d%C3%A9veloppe+et+j'h%C3%A9berge." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=50&lines=Votre+site,+%C3%A0+la+hauteur.;H%C3%A9bergement+de+site+d%C3%A8s+0,50+%E2%82%AC+par+mois;Sites+vitrines+%C2%B7+E-commerce+%C2%B7+Applications+web;Administration+syst%C3%A8mes+%26+r%C3%A9seaux" alt="Typing SVG" />
 </a>
 
 <p>
@@ -13,14 +13,31 @@
 </p>
 
 <p>
-  <a href="https://quarkyz.com/contact/"><img src="https://img.shields.io/badge/✦_Parler_de_mon_projet-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff" /></a>
-  <a href="https://quarkyz.com/tarifs/"><img src="https://img.shields.io/badge/Site_vitrine_d%C3%A8s_149_%E2%82%AC-16161a?style=for-the-badge&labelColor=16161a&color=16161a" /></a>
+  <a href="https://quarkyz.com/contact/"><img src="./assets/btn-projet.svg" height="46" alt="Parler de mon projet" /></a>
+  <a href="https://quarkyz.com/hebergement/"><img src="./assets/btn-hebergement.svg" height="46" alt="Hébergement dès 0,50 €" /></a>
 </p>
+
+<img src="./assets/stats.svg" width="100%" alt="0,50 € d'hébergement par mois, site vitrine dès 149 €, un seul interlocuteur, zéro template recyclé" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Quarkyz&show_icons=true&hide_border=false&bg_color=060607&border_color=2a2a30&title_color=ffffff&icon_color=ffffff&text_color=8e8e97&ring_color=ffffff&border_radius=20" height="170" alt="Stats GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quarkyz&layout=compact&hide_border=false&bg_color=060607&border_color=2a2a30&title_color=ffffff&text_color=8e8e97&border_radius=20" height="170" alt="Langages" />
+## ✦ Hébergement dès 0,50 € par mois
+
+<p>
+  Un petit budget ne devrait pas t'empêcher d'avoir un site propre.<br/>
+  Stockage SSD, accès SFTP, sauvegardes et espace client inclus.
+</p>
+
+<table>
+  <tr>
+    <td width="200" align="center"><h3>0,50 €</h3><b>Site HTML</b><br/><sub>500 Mo de stockage</sub></td>
+    <td width="200" align="center"><h3>0,59 €</h3><b>Base MariaDB</b><br/><sub>Base dédiée</sub></td>
+    <td width="200" align="center"><h3>0,89 €</h3><b>Pack Démarrage</b><br/><sub>Plusieurs services réunis</sub></td>
+    <td width="200" align="center"><h3>0,99 €</h3><b>Bot Discord</b><br/><sub>Node.js, 24h/24</sub></td>
+  </tr>
+</table>
+
+<sub>Prix par mois. Détails et commande sur <a href="https://quarkyz.com/hebergement/">quarkyz.com/hebergement</a>.</sub>
 
 <br/><br/>
 
@@ -49,8 +66,8 @@
   </tr>
   <tr>
     <td width="300" valign="top">
-      <h3>🖥️ Hébergement</h3>
-      <sub>Mise en ligne, configuration serveur et suivi de ton site.</sub>
+      <h3>🖥️ <a href="https://quarkyz.com/hebergement/">Hébergement</a></h3>
+      <sub>Sites HTML, Node.js, bots Discord et bases de données.</sub>
     </td>
     <td width="300" valign="top">
       <h3>🛡️ Infra & réseau</h3>
@@ -128,10 +145,10 @@
 ## ✦ Me contacter
 
 <p>
-  <a href="https://quarkyz.com"><img src="https://img.shields.io/badge/Quarkyz.com-ffffff?style=for-the-badge&logo=google-chrome&logoColor=060607&labelColor=ffffff&color=ffffff" /></a>
-  <a href="https://portfolio.carreira.website"><img src="https://img.shields.io/badge/Portfolio-16161a?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=16161a&color=16161a" /></a>
-  <a href="https://discord.gg/vwdbmyPyJY"><img src="https://img.shields.io/badge/Discord-16161a?style=for-the-badge&logo=discord&logoColor=white&labelColor=16161a&color=16161a" /></a>
-  <a href="mailto:carreira.vincent@outlook.fr"><img src="https://img.shields.io/badge/Email-16161a?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=16161a&color=16161a" /></a>
+  <a href="https://quarkyz.com"><img src="./assets/btn-site.svg" height="46" alt="Quarkyz.com" /></a>
+  <a href="https://portfolio.carreira.website"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://discord.gg/vwdbmyPyJY"><img src="./assets/btn-discord.svg" height="46" alt="Discord" /></a>
+  <a href="mailto:carreira.vincent@outlook.fr"><img src="./assets/btn-mail.svg" height="46" alt="Mail" /></a>
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="" />
